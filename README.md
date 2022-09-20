@@ -1,3 +1,4 @@
 # README
 
-Complete Ruby on Rails Developer
+1. First test repo on the Complete Ruby on Rails Developer
+By TommyTheSM
