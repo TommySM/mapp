@@ -13,3 +13,58 @@
  *= require_tree .
  *= require_self
  */
+
+ html {
+    background-color: #00539f;
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffe250;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1 {
+    color: rgb(185, 29, 29);
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  h4 {
+    color: #00539f;
+    font-size: 20px;
+    text-align: right;
+    text-shadow: 1px 1px 1px black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+ p {
+    color: rgb(185, 29, 29);
+    width: 500px;
+    border: 1px solid black;
+  }
+
+
+p,li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+li {
+    color: rgb(27, 27, 193)
+}
+  
+
+  
